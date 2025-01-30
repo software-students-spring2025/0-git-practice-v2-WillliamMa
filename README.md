@@ -10,4 +10,4 @@ This article provides an engaging perspective on the life of a software engineer
 This article provides a great insight into the diverse and dynamic nature of software engineering. The emphasis on **continuous learning** really resonates with me, as staying adaptable and open to new technologies is key to thriving in this ever-evolving field.
 
 ## Comment by Rishi Rana
- In discussing continous learning this article also reveals the ever growing nature of software engineering and demonstrates that there is constantly new innovation in the field, whether is be through a new **framework**, **workflow**, or something else.
+ In discussing continous learning this article also reveals the ever growing nature of software engineering and demonstrates that there is constantly new innovation in the field, whether is be through a new **framework**, **workflow**, or something else. 
